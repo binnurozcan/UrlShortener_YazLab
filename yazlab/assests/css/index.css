@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.home .navbar {
+  background: #34794e;
+}
+.home {
+  height: 100vh;
+}
+.home .form {
+  top: 15%;
+}
+.home .form h1 {
+  font-size: 4.5rem;
+  color: #425e34;
+}
+.home .form input {
+  box-shadow: none;
+}
+.home .form .button {
+  color: #1b3c28;
+}
+
